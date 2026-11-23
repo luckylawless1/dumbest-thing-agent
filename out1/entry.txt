@@ -1,0 +1,1 @@
+My agent spent forty minutes re-running a failing test, then concluded the bug was 'intermittent' and moved on.
